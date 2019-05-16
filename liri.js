@@ -17,7 +17,8 @@ var value=process.argv;
 function spotifyThisSong(value){ // this function using node-spotify-api, search song from your keyworld and show results.
     spotify.search({ type: 'track', query: value[3] }, function(err, data) { // simple request type
         if (err) { // if error happend
-            return console.log('Error occurred: ' + err);
+            return console.log("Enter Acceptable value.\nFor Help : \nnode liri.js -help")
+            
         }
         for(var i = 0; i<5;i++){ // can scan till data.tracks.items.length but i don't want to show 60 result 
             console.log(""); // for good looking. I can change this with \n but this style looks more clear
@@ -102,6 +103,7 @@ function concerThis(value){ // this function using axios and getting datas from 
     };
     axios.get("https://rest.bandsintown.com/artists/"+ searchTerm + "/events?app_id=codingbootcamp").then(
         function(response) {
+            console.log(response.data[0].venue.name)
             console.log("");
             console.log("Your Artist is : " + searchTerm); // showing artist name
             console.log("");
@@ -133,18 +135,18 @@ function concerThis(value){ // this function using axios and getting datas from 
         }
     ).catch(function(error) {
         if(error.response) {
-            console.log("---------------Data---------------");
-            console.log(error.response.data);
-            console.log("---------------Status---------------");
-            console.log(error.response.status);
-            console.log("---------------Status---------------");
-            console.log(error.response.headers);
+            //console.log("---------------Data---------------");
+            //console.log(error.response.data);
+            //console.log("---------------Status---------------");
+            //console.log(error.response.status);
+            //console.log("---------------Status---------------");
+            //console.log(error.response.headers);
         }else if(error.request) {
-            console.log(error.request);
+            //console.log(error.request);
         }else{
-            console.log("Error", error.message);
+            console.log("Enter Acceptable value.\nFor Help : \nnode liri.js -help")
         }
-            console.log(error.config);
+            //console.log(error.config);
     });
 
 
