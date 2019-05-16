@@ -122,3 +122,11 @@ User log inn at Wednesday, May 15th 2019, 11:08:48 pm
 Using do-what-it-says command
 Search undefined data
 
+User log inn at Wednesday, May 15th 2019, 11:18:26 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 11:18:35 pm 
+Using do-what-it-says command
+Search undefined data
+
