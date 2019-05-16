@@ -1,0 +1,124 @@
+User log inn at Wednesday, May 15th 2019, 7:22:00 pm 
+Using movie-this command
+Search matrix data
+
+User log inn at Wednesday, May 15th 2019, 7:24:59 pm 
+Using spotify-this-song command
+Search love data
+
+User log inn at Wednesday, May 15th 2019, 7:25:17 pm 
+Using spotify-this-song command
+Search through the looking glass data
+
+User log inn at Wednesday, May 15th 2019, 7:26:33 pm 
+Using spotify-this-song command
+Search through the looking glass data
+
+User log inn at Wednesday, May 15th 2019, 7:28:57 pm 
+Using undefined command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 7:29:04 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 7:29:46 pm 
+Using do-what-it-says command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:36:57 pm 
+Using undefined command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:39:02 pm 
+Using sdfasdf command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:40:01 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:41:46 pm 
+Using concert-this command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:44:27 pm 
+Using concert-this command
+Search ariana grande data
+
+User log inn at Wednesday, May 15th 2019, 10:45:54 pm 
+Using concert-this command
+Search rihanna data
+
+User log inn at Wednesday, May 15th 2019, 10:48:14 pm 
+Using concert-this command
+Search taylor swift data
+
+User log inn at Wednesday, May 15th 2019, 10:49:34 pm 
+Using concert-this command
+Search taylor swift data
+
+User log inn at Wednesday, May 15th 2019, 10:53:54 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 10:54:25 pm 
+Using movie-this command
+Search avengers: end game data
+
+User log inn at Wednesday, May 15th 2019, 10:54:32 pm 
+Using movie-this command
+Search avengers: endgame data
+
+User log inn at Wednesday, May 15th 2019, 10:56:15 pm 
+Using movie-this command
+Search aquaman data
+
+User log inn at Wednesday, May 15th 2019, 10:56:27 pm 
+Using movie-this command
+Search deadwood data
+
+User log inn at Wednesday, May 15th 2019, 10:57:41 pm 
+Using movie-this command
+Search adasd data
+
+User log inn at Wednesday, May 15th 2019, 10:58:44 pm 
+Using movie-this command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 11:00:16 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 11:00:36 pm 
+Using spotify-this-song command
+Search umbrella data
+
+User log inn at Wednesday, May 15th 2019, 11:02:42 pm 
+Using spotify-this-song command
+Search umbrella data
+
+User log inn at Wednesday, May 15th 2019, 11:03:04 pm 
+Using spotify-this-song command
+Search umbrella data
+
+User log inn at Wednesday, May 15th 2019, 11:05:38 pm 
+Using spotify-this-song command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 11:06:39 pm 
+Using spotify-this-song command
+Search sadfsadf data
+
+User log inn at Wednesday, May 15th 2019, 11:07:51 pm 
+Using spotify-this-song command
+Search koray avcı data
+
+User log inn at Wednesday, May 15th 2019, 11:08:34 pm 
+Using -help command
+Search undefined data
+
+User log inn at Wednesday, May 15th 2019, 11:08:48 pm 
+Using do-what-it-says command
+Search undefined data
+
