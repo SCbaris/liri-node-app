@@ -346,3 +346,15 @@ User log inn at Thursday, May 16th 2019, 4:15:00 pm
 Using concert-this command
 Search tablor swift data
 
+User log inn at Thursday, May 16th 2019, 4:45:23 pm 
+Using undefined command
+Search undefined data
+
+User log inn at Thursday, May 16th 2019, 4:50:11 pm 
+Using -help command
+Search undefined data
+
+User log inn at Thursday, May 16th 2019, 4:50:24 pm 
+Using movie-this command
+Search sdafsdf data
+
